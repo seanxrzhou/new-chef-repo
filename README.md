@@ -21,4 +21,4 @@ The config file, `.chef/knife.rb` is a repository specific configuration file fo
 
 # Next Steps
 
-Read the README file in each of the subdirectories for more information about what goes in those directories.
+The stint on a chef project is amazing. You need to know how to use knife. It's better to have your own kitchen. Every good chef has his own cookbook and a little secret in the bag.  Of course being a famous chef will move from one environment to another since the demands are so high!
